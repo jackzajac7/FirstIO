@@ -1,3 +1,4 @@
+//Author: Aero Zajac
 #include <iostream>
 #include <string>
 
